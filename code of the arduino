@@ -1,5 +1,7 @@
 # Arduino-Traffic-Light-Simulator-
 This simple little project uses an Arduino and some LEDs to replicate a traffic light
+
+
 int GREEN = 2;
 int YELLOW = 3;
 int RED = 4;
